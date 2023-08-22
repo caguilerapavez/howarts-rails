@@ -1,0 +1,5 @@
+body {
+    background-image: url("https://picsum.photos/id/276/2560/1440"); /* Coloca la URL de la imagen aquí */
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
+    /* Otros estilos relacionados con el fondo */
+}
